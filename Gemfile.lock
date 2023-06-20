@@ -268,8 +268,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-remote-theme
-  jekyll-theme-midnight
   nokogiri
   rack (~> 2.2.4)
   rspec
