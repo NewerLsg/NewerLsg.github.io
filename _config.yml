@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: linus's pages
-subtitle: ''
+title: linusguo个人站
+subtitle: '记录个人工作、学习、生活'
 description: ''
 keywords:
-author: John Doe
+author: linusguo
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -113,3 +113,19 @@ search:
   field: post
   content: true
   format: html
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  awl: 2
+  wpm: 275
+  suffix: "mins."
+
+# Tabs tag
+tabs:
+  transition:
+    tabs: false
+    labels: true
