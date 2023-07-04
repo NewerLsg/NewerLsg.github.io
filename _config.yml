@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: linus's pages
 subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://newerlsg.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,3 +107,9 @@ deploy:
   branch: gh-pages
   name: linusguo
   email: 2247520226@qq.com
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
